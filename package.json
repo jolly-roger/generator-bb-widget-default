@@ -1,6 +1,6 @@
 {
   "name": "generator-bb-widget-default",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Backbase default widget generator",
   "files": [
     "generators"
