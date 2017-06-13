@@ -1,0 +1,1 @@
+# generator-bb-widget-default
