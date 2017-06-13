@@ -1,0 +1,22 @@
+{
+  "name": "generator-bb-widget-default",
+  "version": "1.0.0",
+  "description": "Backbase default widget generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "backbase",
+    "default",
+    "widget",
+    "generator"
+  ],
+  "author": "Igor Onyshchenko",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "path": "^0.12.7",
+    "yeoman-generator": "^1.1.1"
+  }
+}
