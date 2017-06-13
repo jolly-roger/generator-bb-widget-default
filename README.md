@@ -12,6 +12,12 @@ In order to install it just run following command
 npm install -g generator-bb-widget-default
 ```
 
+or
+
+```bash
+yarn global add generator-bb-widget-default
+```
+
 ### Usage
 In order to generate Backbase standard widget just run following command
 
